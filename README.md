@@ -1,6 +1,6 @@
 **Assessment and Analysis of Factors Impacting Stress in Students in Higher Educational Institutes in Delhi-NCR**
 
-**Note:** This repository holds the draft paper and the final paper in which I have contributed towards the literature review, analysis of primary survey and provided suggestions of the observed results during the discussions with the researchers. I DO NOT TAKE ANY OWNERSHIP OF THIS PAPER. This is just for my personal academic purposes and resume requirements.
+**Note:** This repository holds the draft paper (final publication can be accessed through the link) in which I have contributed towards the literature review, analysis of primary survey and provided suggestions of the observed results during the discussions with the researchers. I DO NOT TAKE ANY OWNERSHIP OF THIS PAPER. This is just for my personal academic purposes and resume requirements.
 
 **Publication:** Kajleen Kaur, Harpreet Kaur, Jasmit Kaur, and Yogeita S. Mehra (2024). Assessment and Analysis of Factors Impacting Stress in Students in Higher Educational Institutes in Delhi-NCR. International Journal of Experimental Research and Review, 41(spl.), 305-321. DOI:10.52756/ijerr.2024.v41spl.025
 
